@@ -1,12 +1,12 @@
 var katzDeliLine = ["Steven", "Blake", "Avi", "Grace"];
-// 
-// 
+//
+//
 // function takeANumber(katzDeliLine, person) {
 //     katzDeliLine.push(person);
 //     //new person entering the deli is pushed into katzDeliLine
 //     return ("Welcome, " + person + ". You are number " + katzDeliLine.length + " in line.");
 // }
-// 
+//
 // function nowServing(katzDeliLine) {
 //     if (katzDeliLine.length) {
 //       //as long as there is a line we store the first person in a variable
@@ -20,7 +20,7 @@ var katzDeliLine = ["Steven", "Blake", "Avi", "Grace"];
 //       return "There is nobody waiting to be served!"
 //     }
 //   }
-// 
+//
 // var line = [];
 // function currentLine(katzDeliLine) {
 //   for (let i=0; i < katzDeliLine.length; i++) {
@@ -46,24 +46,6 @@ function nowServing(katzDeliLine) {
   if (katzDeliLine.length === 0) {
     return ("There is nobody waiting to be served!")
   } else {
-    
+
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
